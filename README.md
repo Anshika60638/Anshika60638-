@@ -85,6 +85,5 @@
 
 ###
 
-<p align="left">Email = jainanshika@gmail.com</p>
 
 

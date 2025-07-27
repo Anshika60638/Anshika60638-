@@ -6,6 +6,8 @@
 </p>
 
 ---
+"<img align= "right" width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/f0fa2ff9-9bf9-4ae3-8606-d9610f4bbd09" />
+
 
 ### 💡 About Me
 <p align="left">🌐 B.Tech CSE (AI-DS)'28| PIET,Kurukshetra  <br>🔭 I’m currently working as an HR Intern at Hair Coaction<br>🤖 Learning Data Science, Machine Learning & Python<br>💬 Ask me about Teamwork, Coordination, and Project Planning<br>🌐 Interested in building tools that solve real-world problems<br>💡 I enjoy working on data-driven projects, building web tools, and learning by doing  <br>🤝 Also handling HR and coordination roles in tech teams — because tech + people = ❤<br>✨ Fun fact: I believe good memes and clean code make everything better 😄</p>

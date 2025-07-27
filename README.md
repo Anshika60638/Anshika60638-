@@ -10,9 +10,9 @@
 
 ## 🧠 Skills & Tools
 
-*Languages:* Python, SQL, R, C++  
+*Languages:* Python, C
 *Libraries:* NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib  
-*ML Tools:* TensorFlow, XGBoost, OpenCV, Power BI  
+*ML Tools:* TensorFlow, Power BI  
 *Web Tools:* HTML, CSS, React.js, Streamlit  
 *Version Control:* Git, GitHub
 
@@ -20,10 +20,6 @@
 
 ## 📌 Featured Projects
 
-🔹 *Loan Default Prediction (SBA Loan Dataset)*  
-> Logistic Regression + Gradient Boosting → Predict loan defaulters  
-🔹 *PCOS Disease Detection*  
-> ML classification using clinical and ultrasound features  
 🔹 *Sentiment Analyzer*  
 > Movie review sentiment classifier using NLP + Streamlit UI  
 🔹 *MNIST Image Classifier*  
@@ -35,7 +31,7 @@
 
 ## 🏆 Achievements & Work
 
-- 🌐 Web Dev Intern @ Hair Coaction  
+- 🌐 HR Intern @ Hair Coaction  
 - 📈 Created interactive dashboards in Power BI  
 - 🎓 7.99 CGPA (1st Sem, PIET)
 
